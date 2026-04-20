@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file>IMAGENES/logoProducto.png</file>
+        <file>IMAGENES/logoEquipo.png</file>
+        <file>IMAGENES/iconoDeModificacion.png</file>
+        <file>IMAGENES/iconoDeListado.png</file>
+        <file>IMAGENES/iconoDeBaja.png</file>
+        <file>IMAGENES/iconoDeAlta.png</file>
+        <file>IMAGENES/fondito_faltas.jpeg</file>
+        <file>IMAGENES/decoracion1.png</file>
+        <file>IMAGENES/fondito_preceptores.jpg</file>
+        <file>IMAGENES/green_pattern.png</file>
+    </qresource>
+</RCC>
