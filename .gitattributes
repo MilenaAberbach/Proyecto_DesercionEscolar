@@ -1,0 +1,12 @@
+# Ocultar archivos de interfaz de Qt (.ui son XML, no deben sumar como lenguaje)
+*.ui linguist-vendored
+
+# Ocultar archivos de recursos de Qt (.qrc también son XML)
+*.qrc linguist-vendored
+
+# Ocultar archivos de proyecto de Qt (.pro y .pri)
+*.pro linguist-vendored
+*.pri linguist-vendored
+
+# Ocultar archivos de configuración de compilación de Qt Creator (si es que se te escaparon al .gitignore)
+*.pro.user linguist-vendored
